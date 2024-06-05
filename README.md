@@ -1,10 +1,6 @@
 # Hazardous-waste-generation
 
-### This project is based on R 4.2.3 and Python 3.9.
-
-  #### model_data.csv: data used for model building in this project.
-  
-  #### Sampling to split test and train data sets.
+### This project is based on R 4.3.0 and Python 3.9.
   
   #### Data_balance_with_SMOGN.R: Training data sets balancing
   
