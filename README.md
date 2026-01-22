@@ -19,10 +19,10 @@
   #### The data directory contains the required data.  
 Pre-trained model weights are available at:  
 https://drive.google.com/drive/folders/1q8TwCYMXRL_5hW2t7O2WCRpSuBboer4B?usp=sharing
-CA-best_test_model.pth
 
-  ####CA-best_test_model.pth and MLP-best_test_model.pth are pre-trained models specifically used for temporal robustness evaluation. These models can be directly loaded and executed in the `Temporal_Robustness_Test` directory without additional modification.
+  #### CA-best_test_model.pth and MLP-best_test_model.pth are pre-trained models specifically used for temporal robustness evaluation. These models can be directly loaded and executed in the `Temporal_Robustness_Test` directory without additional modification.
 
-CA-80-0.82-2.pth, LA-80-0.77-2.pth, and ResMLP-80-0.80-2.pth are models trained on the complete dataset. They are provided for model testing and further analysis within the `Training_and_Analysis` directory.
+  #### CA-80-0.82-2.pth, LA-80-0.77-2.pth, and ResMLP-80-0.80-2.pth are models trained on the complete dataset. They are provided for model testing and further analysis within the `Training_and_Analysis` directory.
+
 
 
