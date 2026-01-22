@@ -1,4 +1,4 @@
-# Hazardous-waste-generation
+# Reliable artificial intelligence for firm-level pollutant source estimation
 
 ### This project is based on R 4.3.0 and Python 3.9.
   
