@@ -1,20 +1,18 @@
 # Reliable artificial intelligence for firm-level pollutant source estimation
 
-### This project is based on R 4.3.0 and Python 3.9.
+### This project is based on Python 3.9 and torch 2，9.
   
-  #### Data_balance_with_SMOGN.R: Training data sets balancing
+  #### Training_and_Analysis/Baseline_model.py: Training and testing code for the baseline model.
   
-  #### Determining the thr value and k parameters of SMOGN.R: Determining the thr value and k parameters of SMOGN.
+  #### Training_and_Analysis/SNGP-*.py: Training and testing code for CA, LA, and ResMLP integrated with SNGP.
   
-  ####  Model hyperparameter tuning and comparison.R: Parameter search and model comparison based on ten-fold cross-validation
+  ####  Training_and_Analysis/CP-*: Conformal prediction code
   
-  ####  Regression model for predicting total generation quantity of HW.R: Regression model based on RF model
-
-  ####  Ensemble model for predicting generation quantity of MHW.R: ensemble model based on RF models
+  ####  Training_and_Analysis/OOD_Sample_Analysis-*: t-SNE, LDA, and SHAP analysis
   
-  #### Sector_independent model.R: Sector_independent model. Only one industry sector is used as an example in the code.
+  ####  Training_and_Analysis/Generate_sample_detection-*: Generate sample detection
   
-  #### SHAP_analyze.py: compute SHAP values for the model training dataset
+  #### Temporal_Robustness_Test/Time_robustness_test-SNGP-*: Monthly time robustness test performance
   
-  #### MAS caculation.R: Calculate the absolute average SHAP value based on the SHAP values to characterize the importance of features.
+  #### Temporal_Robustness_Test/Time_robustness_test-CP-*: Monthly conformal prediction.
 
