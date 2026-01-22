@@ -16,3 +16,5 @@
   
   #### Temporal_Robustness_Test/Time_robustness_test-CP-*: Monthly conformal prediction
 
+  #### The data directory contains the required data, and we have also provided the pre-trained model weights.
+
